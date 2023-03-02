@@ -1,0 +1,5 @@
+Unprotected admin function
+
+Goal: Find the admin panel and delete the user Carlos
+
+Analysis:
